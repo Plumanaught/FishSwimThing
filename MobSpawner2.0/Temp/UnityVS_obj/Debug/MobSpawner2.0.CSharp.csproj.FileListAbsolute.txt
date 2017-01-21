@@ -1,0 +1,13 @@
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_obj\Debug\MobSpawner2.0.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\gamejam\Documents\MobSpawner2.0\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
